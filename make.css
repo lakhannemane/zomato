@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+/* -----------------------------------------------header section-------------------------- */
+
+
+.header{
+    height: 16vh;
+    background-color: red;
+    width: 100%;
+    padding: 20px 100px 10px 140px ;
+}
+
+
+.cir{
+    display: inline-block;
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 100%;
+
+}
+
+
+
+.logo{
+    width: 25px ;
+    height: 30px;
+    color: red;
+    font-size: 33px;
+    font-weight: 600;
+    line-height: 1;
+    margin: 9px;
+}
+
+.menu{
+    float: right;
+    text-align: right;
+    border: 2px solid white;
+    margin: 0px 10px 0px 10px;
+    
+
+}
+
+.create{
+    float: right;
+    text-align: right;
+    color: white;
+    margin: 5px 5px;
+    font-size: 18px;
+    font-weight: 500
+}
+
+.login{
+    float: right;
+    text-align: left;
+    color: white;
+    margin: 6px 40px;
+    font-size: 18px;
+    font-weight: 500
+}
+
+
+
+/* --------------------------------Mainheading------------------ */
+
+
+
+.mainheading{
+    font-size: 33px ;
+    font-weight: 600;
+    margin: 40px 0px 20px 140px;
+    color: rgb(8, 8, 51);
+}
+
+
+
+/* ------------------------------------------- main-box--------------------------- */
+
+
+.main{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 0px 0px 20px 0px;
+}
+
+
+.rectangle{
+    display: flex;
+   
+
+}
+
+.menuname{
+    margin: 0px 0px 0px 10px;
+}
+
+.container{
+    height: 236px;
+    width: auto;
+    background-color: whitesmoke;
+    margin: 0px 0px 10px 0px;
+    padding: 15px 0px 0px 15px;
+    box-shadow: 4px 4px 5px black;
+
+}
+
+.sub1{
+ 
+    width: 72%;
+   
+}
+.ract{
+     
+    box-shadow: 0px 0px 20px 0;
+    padding: 15px 10px 0px 10px;
+    width: 22%;
+    margin: 0px 25px 0px 0px;
+}
+
+
+.buttonnumber{
+    text-align: center;
+    padding: 20px 0px 10px 0px;
+}
+
+
+
+
+
+
+
+
+/* --------------------------menu box styling ---------------------------- */
+
+
+.button{
+    border: 2px solid grey;
+    padding: 3px ;
+    border-radius: 3px;
+    margin: 2px 3px;
+}
+
+.select-Location{
+    font-weight: 500;
+}
+.option{
+    width: 100%;
+    margin: auto;
+}
+h3{
+    font-size: 30px;
+    padding: 0px 0px 5px 0px
+}
+h5{
+    font-size: 20px;
+    padding: 0px 0px 5px 0px
+}
+.price{
+    padding: 15px 0px 0px 3px;
+    color: grey;
+}
+
+/* .image:hover{
+    box-shadow: 5px 5px  10px 6px red;
+} */
+
+hr{
+   margin: 10px 0px 0px 0px;
+    color: black;
+}
+
+
+
+.checkbox-label{
+    font-weight: 601;
+    font-size: 16px;
+
+
+}
+
+
+.form{
+    margin: 0px 0px 0px 20px;
+}
+
+
+.select-Location{
+    font-weight: 601;
+    font-size: 16px;
+
+}
+
+
+
+.cost-for-two{
+    font-weight: 601;
+    font-size: 16px;
+
+}
+
+.Sort{
+    font-weight: 601;
+    font-size: 16px;
+
+}
+
+.checkbox-option
+{
+    font-size: 14px;
+}
+
+.lk{
+    font-size:19px ;
+    margin: 0px 0px 0px 10px;
+    
+}
+
+.ln{
+    font-size:19px ;
+    margin: 0px 0px 0px 10px;
+}
+
